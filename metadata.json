@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Slingshot",
+  "description": "A webcam-controlled Bubble Shooter game. Use your hands to pull back the slingshot and pop matching bubbles!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
